@@ -1,0 +1,139 @@
+/* Header */
+
+@import url("https://fonts.googleapis.com/css2?family=Syne:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+
+p {
+  margin: 0;
+}
+
+.flex-col-hstart-vstart {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-hcenter {
+  justify-content: center;
+}
+
+.header {
+  padding: 0px 49px 0px 0px;
+  box-sizing: border-box;
+  width: 1804px;
+  height: 58px;
+}
+
+.group-408 {
+  height: 100%;
+}
+
+.nester-live-icon-1 {
+  width: 55px;
+  margin-right: 25px;
+  height: 100%;
+}
+
+.txt-3710 {
+  font-size: 34px;
+  font-family: Syne, sans-serif;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  word-wrap: break-word;
+  margin-right: 564px;
+}
+
+.group-2 {
+  margin-right: 98px;
+  box-sizing: border-box;
+  width: 588px;
+  height: 31px;
+}
+
+.rectangle-5 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 93px;
+  height: 2px;
+}
+
+.txt-751 {
+  font-size: 26px;
+  font-family: Urbanist, sans-serif;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+  word-wrap: break-word;
+  margin-right: 71px;
+}
+
+.txt-222 {
+  font-size: 26px;
+  font-family: Urbanist, sans-serif;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+  word-wrap: break-word;
+  margin-right: 94px;
+}
+
+.txt-988 {
+  font-size: 26px;
+  font-family: Urbanist, sans-serif;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+  word-wrap: break-word;
+  margin-right: 97px;
+}
+
+.txt-481 {
+  font-size: 26px;
+  font-family: Urbanist, sans-serif;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+  word-wrap: break-word;
+}
+
+.group-10 {
+  padding: 2px 24px 1px 25px;
+  margin-right: 10px;
+  box-sizing: border-box;
+  border-radius: 40px;
+  border: 1px solid rgba(0, 190, 213, 1);
+  width: 102px;
+  height: fit-content;
+}
+
+.txt-204 {
+  font-size: 15px;
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+  color: rgba(0, 190, 213, 1);
+  text-align: center;
+  word-wrap: break-word;
+  text-transform: uppercase;
+}
+
+.group-9 {
+  padding: 2px 6px 1px 7px;
+  box-sizing: border-box;
+  border-radius: 40px;
+  background-color: rgba(0, 190, 213, 1);
+  width: 102px;
+  height: fit-content;
+}
+
+.txt-843 {
+  font-size: 15px;
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  word-wrap: break-word;
+  text-transform: uppercase;
+}
